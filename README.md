@@ -1,3 +1,4 @@
-# Vanilla App Template
+# Custom Components
 
-Development Template for start working with HTML, CSS and JavaScript project
+Mini project for learning how to create custom component using Vanilla JavaScript
+
